@@ -1,0 +1,16 @@
+{
+  "name": "log-in-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.2.0",
+    "sass": "^1.69.7"
+  }
+}
